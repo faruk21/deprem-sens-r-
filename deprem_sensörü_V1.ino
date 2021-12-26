@@ -1,4 +1,4 @@
-
+//Derlemeye başlamadan önce Araçlar > kütüphaneleri yönet > TinyMPU6050 > "Arama sonucu çıkan TinyMPU6050 kütüphanesini kurun."
 #include <Arduino.h>
 #include <TinyMPU6050.h>
 
